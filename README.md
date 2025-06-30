@@ -4,7 +4,7 @@ This project aims to build a machine learning model that predicts whether a cust
 
 ## Problem Statement
 
-Churn prediction helps telecom companies identify customers at risk of leaving, allowing for proactive retention strategies. We'll explore patterns in customer behavior to predict churn using classification models.
+Churn prediction helps telecom companies identify customers at risk of leaving, allowing for proactive retention strategies. This project explores patterns in customer behavior to predict churn using classification models.
 
 ## Dataset
 
@@ -26,7 +26,7 @@ Churn prediction helps telecom companies identify customers at risk of leaving, 
 - [ ] Train multiple ML models
 - [ ] Evaluate and compare performance
 - [ ] Interpret model results using SHAP
-- [ ] Optional: Deploy as Streamlit dashboard
+- [ ] Deploy as Streamlit dashboard
 
 ## Goals
 
